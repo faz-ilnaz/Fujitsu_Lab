@@ -4,6 +4,8 @@ public class NamePublisher {
 								"Alex",
 								"Michael"};
 
-		System.out.println("Hello World!");
+		for(String str : nameList) {
+			System.out.println(str);
+		}
 	}
 }
