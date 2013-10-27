@@ -7,5 +7,6 @@ public class NamePublisher {
 		for(String str : nameList) {
 			System.out.println(str);
 		}
+		
 	}
 }
