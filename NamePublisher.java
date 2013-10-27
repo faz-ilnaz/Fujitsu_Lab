@@ -3,5 +3,7 @@ public class NamePublisher {
 		String[] nameList = {	"John", 
 								"Alex",
 								"Michael"};
+
+		System.out.println("Hello World!");
 	}
 }
