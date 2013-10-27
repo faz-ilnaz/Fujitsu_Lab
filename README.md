@@ -1,0 +1,1 @@
+Fujitsu Lab git repository. Practice_04
